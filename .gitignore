@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.env
+.venv
+venv/
+*.log
+.DS_Store
+
+# Matrix 7D específico
+MATRIX_DEL_ARQUITECTO_7D/12_RESPALDOS_Y_SEGURIDAD/
+*.enc
+claves.json
